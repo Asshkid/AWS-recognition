@@ -1,5 +1,6 @@
 # Обнаружение оружия в видео с использованием AWS Rekognition и OpenCV
-![Screen](https://github.com/Asshkid/AWS-recognition/assets/132083258/5cc1456c-f180-476a-9bc1-003fc4a380a0)
+![Screen](https://github.com/Asshkid/AWS-recognition/assets/132083258/7464e137-24d1-4239-b800-396b4f65b30d)
+
 
 Этот проект предназначен для обнаружения оружия в видеопотоке с использованием AWS Rekognition и OpenCV. Кадры видео обрабатываются для идентификации и аннотирования оружия, предоставляя визуальную обратную связь через рамки и метки.
 
