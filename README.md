@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/gun-detection
+    git clone https://github.com/Asshkid/AWS-recognition
     ```
 
 2. Перейдите в директорию проекта:
