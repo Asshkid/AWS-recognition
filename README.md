@@ -1,4 +1,4 @@
-# Обнаружение оружия в видео с использованием AWS Rekognition и OpenCV
+# Обнаружение оружия в видео с использованием AWS Recognition и OpenCV
 ![Screen](https://github.com/Asshkid/AWS-recognition/assets/132083258/7464e137-24d1-4239-b800-396b4f65b30d)
 
 
